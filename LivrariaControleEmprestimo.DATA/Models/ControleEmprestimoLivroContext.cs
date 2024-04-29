@@ -8,6 +8,10 @@ namespace LivrariaControleEmprestimo.DATA.Models;
 
 public partial class ControleEmprestimoLivroContext : DbContext
 {
+    public ControleEmprestimoLivroContext()
+    {
+    }
+
     public ControleEmprestimoLivroContext(DbContextOptions<ControleEmprestimoLivroContext> options)
         : base(options)
     {
