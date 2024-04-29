@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\LivrariaControleEmprestimo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AABA889-E033-44A5-AD5E-185F5E7FAFDC}|LivrariaControleEmprestimo.DATA\\LivrariaControleEmprestimo.DATA.csproj|c:\\projects\\livrariacontroleemprestimo\\livrariacontroleemprestimo.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AABA889-E033-44A5-AD5E-185F5E7FAFDC}|LivrariaControleEmprestimo.DATA\\LivrariaControleEmprestimo.DATA.csproj|solutionrelative:livrariacontroleemprestimo.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\LivrariaControleEmprestimo\\LivrariaControleEmprestimo.DATA\\Class1.cs",
+              "RelativeDocumentMoniker": "LivrariaControleEmprestimo.DATA\\Class1.cs",
+              "ToolTip": "C:\\Projects\\LivrariaControleEmprestimo\\LivrariaControleEmprestimo.DATA\\Class1.cs",
+              "RelativeToolTip": "LivrariaControleEmprestimo.DATA\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:35:06.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
