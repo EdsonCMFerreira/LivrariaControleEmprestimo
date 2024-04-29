@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LivrariaControleEmprestimo.DATA")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LivrariaControleEmprestimo.WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9674068dd003e4f0ea6654569aaaf142eb2b3d81")]
-[assembly: System.Reflection.AssemblyProductAttribute("LivrariaControleEmprestimo.DATA")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LivrariaControleEmprestimo.DATA")]
+[assembly: System.Reflection.AssemblyProductAttribute("LivrariaControleEmprestimo.WEB")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LivrariaControleEmprestimo.WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

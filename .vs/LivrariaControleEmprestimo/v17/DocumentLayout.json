@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\LivrariaControleEmprestimo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F43B62AA-51C5-49EA-9614-3B8CFFA96225}|LivrariaControleEmprestimo.WEB\\LivrariaControleEmprestimo.WEB.csproj|c:\\projects\\livrariacontroleemprestimo\\livrariacontroleemprestimo.web\\livrariacontroleemprestimo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F43B62AA-51C5-49EA-9614-3B8CFFA96225}|LivrariaControleEmprestimo.WEB\\LivrariaControleEmprestimo.WEB.csproj|solutionrelative:livrariacontroleemprestimo.web\\livrariacontroleemprestimo.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AABA889-E033-44A5-AD5E-185F5E7FAFDC}|LivrariaControleEmprestimo.DATA\\LivrariaControleEmprestimo.DATA.csproj|c:\\projects\\livrariacontroleemprestimo\\livrariacontroleemprestimo.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AABA889-E033-44A5-AD5E-185F5E7FAFDC}|LivrariaControleEmprestimo.DATA\\LivrariaControleEmprestimo.DATA.csproj|solutionrelative:livrariacontroleemprestimo.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LivrariaControleEmprestimo.WEB",
+              "DocumentMoniker": "C:\\Projects\\LivrariaControleEmprestimo\\LivrariaControleEmprestimo.WEB\\LivrariaControleEmprestimo.WEB.csproj",
+              "RelativeDocumentMoniker": "LivrariaControleEmprestimo.WEB\\LivrariaControleEmprestimo.WEB.csproj",
+              "ToolTip": "C:\\Projects\\LivrariaControleEmprestimo\\LivrariaControleEmprestimo.WEB\\LivrariaControleEmprestimo.WEB.csproj",
+              "RelativeToolTip": "LivrariaControleEmprestimo.WEB\\LivrariaControleEmprestimo.WEB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T14:38:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Projects\\LivrariaControleEmprestimo\\LivrariaControleEmprestimo.DATA\\Class1.cs",
               "RelativeDocumentMoniker": "LivrariaControleEmprestimo.DATA\\Class1.cs",
               "ToolTip": "C:\\Projects\\LivrariaControleEmprestimo\\LivrariaControleEmprestimo.DATA\\Class1.cs",
               "RelativeToolTip": "LivrariaControleEmprestimo.DATA\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T12:35:06.381Z",
               "EditorCaption": ""
